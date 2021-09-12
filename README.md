@@ -1,7 +1,7 @@
 # SimpleAutomationTest
 
-# Ensure to use Chrome driver Version 93 
-**insert link here** 
+**# Ensure to use Chrome driver Version 93**
+**https://chromedriver.chromium.org/downloadse** 
 # open terminal
 # run mvn clean install
 # run mvn compile 
